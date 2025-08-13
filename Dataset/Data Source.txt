@@ -1,0 +1,7 @@
+Phish - https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset
+
+IDS - https://www.kaggle.com/datasets/dnkumars/cybersecurity-intrusion-detection-dataset
+
+Malware - https://www.kaggle.com/competitions/malware-detection/data
+
+Frad_E-Commerce - https://data.mendeley.com/datasets/m7xtkx7g5m/1
